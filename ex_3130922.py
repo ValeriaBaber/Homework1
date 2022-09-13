@@ -58,5 +58,5 @@ rectangle = Rectangle(2, 6)
 circle = Circle(3)
 figures = [square, rectangle, circle]
 
-for i in figures:
-    print(i.area())
+for a in figures:
+    print(a.area())
